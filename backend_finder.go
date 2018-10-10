@@ -1,3 +1,4 @@
+// work & inspiration by denisix at github dot com
 package main
 
 import (
